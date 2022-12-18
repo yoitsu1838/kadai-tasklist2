@@ -15,7 +15,7 @@
 <div class="ui form">
     <div class="field">
         <label>タスク内容を入力※改行不可</label>
-        <textarea name="content" id="content" value="${task.content}"></textarea>
+        <textarea name="content" id="content" >${task.content}</textarea>
     </div>
 
 
